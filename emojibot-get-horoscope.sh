@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Print everyone's horoscopes
+
 # Get current directory, even through symlinks
 # via https://stackoverflow.com/a/246128/1406873
 SOURCE="${BASH_SOURCE[0]}"

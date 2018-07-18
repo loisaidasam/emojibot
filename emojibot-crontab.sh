@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# If you want to set up a daily crontab, link it to this script
+
 # Get current directory, even through symlinks
 # via https://stackoverflow.com/a/246128/1406873
 SOURCE="${BASH_SOURCE[0]}"

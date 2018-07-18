@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Helper script for posting to slack
+
 # https://api.slack.com/incoming-webhooks
 
 WEBHOOK_URL="https://hooks.slack.com/services/YOUR/WEBHOOK/HERE"
